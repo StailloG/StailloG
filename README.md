@@ -10,7 +10,7 @@ I am passionate in programming because I want to better people's lives by creati
 
 ## More about me!
 
- - 🔭 I’m currently working on a 3D psychological horror with 2 friends.
+ - 🔭 I’m currently working on a 3D psychological horror game with 2 friends.
  - 🌱 I’m currently learning Blender.
  - 👯 I’m looking to collaborate on apps that can benefit people's daily lives!
  - 🤔 I’m looking for help with game/software development interview preperations.
