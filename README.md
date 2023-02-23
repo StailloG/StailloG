@@ -10,11 +10,11 @@ I am passionate in programming because I want to better people's lives by creati
 
 ## More about me!
 
- - 🔭 I’m currently working on a 3D psychological horror game with 2 friends.
- - 🌱 I’m currently learning Blender.
- - 👯 I’m looking to collaborate on apps that can benefit people's daily lives!
- - 🤔 I’m looking for help with software development interview preperations.
- - 💬 Ask me about my plans for now, the future, my goals, aspirtations, anything!
+ - 🔭 I’m currently working on a 3D psychological horror game with The Musical Pete.
+ - 🌱 I’m currently learning Python.
+ - 👯 I’m looking to join hackathons that can benefit people's lives!
+ - 🤔 I’m looking for help with how to effectivly think through problem-solving.
+ - 💬 Ask me about my plans for the near-future, my goals, aspirtations, anything!
  - 📫 How to reach me: [LinkedIn!](https://www.linkedin.com/in/stephaniejcastillo/)
  - 😄 Pronouns: She/her
  - ⚡ Fun fact: I'm constantly thinking about video game ideas/storylines for my next game!
