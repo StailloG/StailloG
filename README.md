@@ -5,13 +5,13 @@ As a creative outlet, I have developed a variety of 2D and 3D video games and pa
 I am always eager to explore new opportunities such as hackathons, tech events, and collaborations that allow me to apply my programming skills to make a meaningful impact. Feel free to connect, I'd love to exchange ideas and learn from fellow tech enthusiasts!
 
 ## Skills
-•	Programming Languages: C#, Java, TypeScript, JavaScript, Angular, C++, Python, C
-•	Web & Frameworks: Angular, HTML, Node.js, CSS/SCSS
-•	Databases: MongoDB, SQL, Redis
-•	Tools & Software: Visual Studios, Eclipse, Git, GitHub, GitLab, Postman
-•	Cloud & DevOps: CI/CD
-•	Other Technologies: Unity (2D & 3D), Blender, Adobe Premiere, Photoshop, Clip Studio Pro
-•	Productivity & Office Tools: Microsoft Word, PowerPoint, Excel
+-	Programming Languages: C#, Java, TypeScript, JavaScript, Angular, C++, Python, C
+-	Web & Frameworks: Angular, HTML, Node.js, CSS/SCSS
+- Databases: MongoDB, SQL, Redis
+-	Tools & Software: Visual Studios, Eclipse, Git, GitHub, GitLab, Postman
+-	Cloud & DevOps: CI/CD
+-	Other Technologies: Unity (2D & 3D), Blender, Adobe Premiere, Photoshop, Clip Studio Pro
+-	Productivity & Office Tools: Microsoft Word, PowerPoint, Excel
 
 ## More about me!
 
