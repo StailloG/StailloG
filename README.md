@@ -1,4 +1,4 @@
-### Hello, welcome to Stephanie Castillo's GitHub profile! 👋
+### Hello, welcome to Stephanie GitHub profile! 👋
 
 I am a Software Engineer with experience in frontend and backend development. I hold a Bachelor's Degree in Computer Science from Florida International University and have a passion for building innovative and use-friendly applications.
 As a creative outlet, I have developed a variety of 2D and 3D video games and participated in multiple game jams. I am currently working on a 3D horror game using Unity, C#, and Blender.
